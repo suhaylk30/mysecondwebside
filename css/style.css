@@ -5,7 +5,8 @@
 
 #box1 {
     background-color: blue;
-
+    float: left;
+    clear: left;
 }
 #box2 {
     background-color: green;
@@ -13,7 +14,8 @@
 }
 #box3 {
     background-color: red;
-
+    float: left;
+    clear: left;
 }
 #box4 {
     background-color: orange;
@@ -24,4 +26,5 @@
     width: 50px;
     border: black 1px solid;
     margin-top: 25px;
+    padding: 7px;
 }
